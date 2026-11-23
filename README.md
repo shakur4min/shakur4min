@@ -3,7 +3,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/352590493?v=4" width="120" alt="Shakur 4min profile avatar" />
 
-# SHAKUR 4MIN
+# SHAKUR4MIN
 
 **INDEPENDENT DEVELOPER · SOFTWARE · DIGITAL PROJECTS**
 
