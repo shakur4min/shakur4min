@@ -1,4 +1,4 @@
-<!-- SHAKUR 4MIN / PROFILE -->
+<!-- SHAKUR4MIN / PROFILE -->
 <div align="center">
 
 <img src="https://avatars.githubusercontent.com/u/352590493?v=4" width="120" alt="Shakur 4min profile avatar" />
