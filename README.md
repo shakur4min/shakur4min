@@ -1,92 +1,56 @@
-<!-- SHAKUR4MIN / PROFILE -->
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/352590493?v=4" width="120" alt="Shakur 4min profile avatar" />
+<img src="https://avatars.githubusercontent.com/u/352590493?v=4" width="112" alt="shakur4min avatar" />
 
-# SHAKUR4MIN
+# shakur4min
 
-**INDEPENDENT DEVELOPER · SOFTWARE · DIGITAL PROJECTS**
+Independent developer · Personal projects
 
-<sub>Building quietly. Thinking deeply. Shipping what matters.</sub>
-
-[GitHub](https://github.com/shakur4min) · [Repositories](https://github.com/shakur4min?tab=repositories)
+[Repositories](https://github.com/shakur4min?tab=repositories)
 
 </div>
 
 ---
 
-## PROFILE
+## About
 
-I’m an independent developer working across software, web-based experiences, and technical experiments.
+I build personal software projects, explore ideas, and learn by making things that can be used. My current work includes application development, web interfaces, and Progressive Web Apps (PWAs). I also use AI tools as part of my development workflow.
 
-I approach projects as systems: understand the underlying structure, question the defaults, and build with intention. My work is driven by curiosity, practical problem-solving, and the pursuit of ideas that can become real, usable tools.
+I'm still developing my skills, and this profile is a record of projects, experiments, and improvements—not a list of claimed professional experience.
 
-This profile is the central index of my public work and ongoing experiments.
+## Projects
 
----
+### [BLACKFOX](https://github.com/shakur4min/blackfox)
+An independent VPN application project. Work includes the app, its interface, and cross-platform build/development efforts.
 
-## SELECTED WORK
+### [VESTA](https://github.com/shakur4min/Vesta)
+An English grammar learning PWA. I developed the application and PWA experience; its educational material is based on *Understanding and Using English Grammar (5th Edition)* by Betty S. Azar and Stacy A. Hagen.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+[Open VESTA](https://shakur4min.github.io/Vesta/)
 
-### BLACKFOX
+### [PHRASAL VERBS](https://github.com/shakur4min/Phrasal-verbs)
+An English-learning PWA built around phrasal verbs. I developed the app, interface, and PWA implementation. The learning material is based on a PDF resource authored by Morteza Safdari.
 
-An independent cross-platform software project.
-
-**Platforms** · Android / Windows / Linux
-
-[Explore repository →](https://github.com/shakur4min/blackfox)
-
-</td>
-<td width="50%" valign="top">
-
-### VESTA
-
-A browser-based learning project built around structured content and an interactive experience.
-
-**Format** · Web / Interactive learning
-
-[Explore repository →](https://github.com/shakur4min/Vesta)
-
-</td>
-</tr>
-</table>
+[Open the app](https://shakur4min.github.io/Phrasal-verbs/)
 
 ---
 
-## AREAS OF INTEREST
+## Current interests
 
-- Software engineering and application development
-- Cross-platform systems
-- Web technologies and interactive interfaces
-- Technical experimentation
-- Product structure, usability, and design
-
----
-
-## PRINCIPLES
-
-| PRINCIPLE | APPROACH |
-|:--|:--|
-| **Intent** | Build for a reason, not for noise. |
-| **Independence** | Explore ideas beyond standard templates. |
-| **Clarity** | Keep systems understandable and purposeful. |
-| **Iteration** | Improve through testing, refinement, and execution. |
+- Building and improving practical software
+- Web apps and Progressive Web Apps
+- Cross-platform application development
+- UI implementation and usability
+- Learning through hands-on projects
 
 ---
 
-## EXPLORE
+## Contact & work
 
-<div align="center">
+For project details, source code, and current work, see my repositories.
 
-[**VIEW ALL PROJECTS**](https://github.com/shakur4min?tab=repositories)
-
-<sub>SH4KUR · 4MIN</sub>
-
-</div>
+[GitHub profile](https://github.com/shakur4min)
 
 ---
 
-<div align="center"><sub>Independent by design. Defined by the work.</sub></div>
+<sub>Personal projects, learning, and ongoing development.</sub>
